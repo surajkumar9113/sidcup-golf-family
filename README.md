@@ -1,4 +1,4 @@
-# ⛳ Sidcup Golf Family – Inspired Developer Profile 🔴
+# ⛳ Sidcup Golf Family 🔴
 
 Hi 👋, I’m **Suraj Kumar**  
 💻 Frontend / Web Developer  
@@ -21,13 +21,11 @@ I love modern UI, smooth animations, and bold color themes (especially red 🔴)
 - Smooth animations & bold red theme  
 - Fully responsive design  
 
-👉 **Live Preview:** Coming Soon  
-👉 **Source Code:** GitHub Repository  
+👉 **Live Preview:**  https://surajkumar9113.github.io/sidcup-golf-family/
+👉 **Source Code:**  https://github.com/your-username  
 
 ## 🌐 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
-- 💻 **GitHub:** https://github.com/your-username  
-
 
 ## ❤️ Design Philosophy
 > “Clean UI, bold colors, and smooth user experience create memorable websites.”
